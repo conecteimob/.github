@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/seo/conectei-social-1200x630.png" alt="Conectei — tecnologia para a operação imobiliária" width="100%">
+  <img src="./assets/conectei-social-1200x630.png" alt="Conectei — tecnologia para a operação imobiliária" width="100%">
 </p>
 
 <h1 align="center">A operação imobiliária, conectada de ponta a ponta.</h1>
@@ -73,10 +73,10 @@ Um resultado de pesquisa pode virar uma abordagem, uma oportunidade pode seguir 
 <table>
   <tr>
     <td width="66%">
-      <img src="./src/assets/product-dashboard.webp" alt="Painel da Conectei em desktop com dados demonstrativos" width="100%">
+      <img src="./assets/product-dashboard.webp" alt="Painel da Conectei em desktop com dados demonstrativos" width="100%">
     </td>
     <td width="34%">
-      <img src="./src/assets/product-dashboard-mobile.webp" alt="Painel da Conectei em dispositivo móvel com dados demonstrativos" width="100%">
+      <img src="./assets/product-dashboard-mobile.webp" alt="Painel da Conectei em dispositivo móvel com dados demonstrativos" width="100%">
     </td>
   </tr>
   <tr>
@@ -93,10 +93,10 @@ Um resultado de pesquisa pode virar uma abordagem, uma oportunidade pode seguir 
 <table>
   <tr>
     <td width="66%">
-      <img src="./src/assets/product-search.webp" alt="Pesquisa imobiliária da Conectei em desktop com dados demonstrativos" width="100%">
+      <img src="./assets/product-search.webp" alt="Pesquisa imobiliária da Conectei em desktop com dados demonstrativos" width="100%">
     </td>
     <td width="34%">
-      <img src="./src/assets/product-search-mobile.webp" alt="Pesquisa imobiliária da Conectei em dispositivo móvel com dados demonstrativos" width="100%">
+      <img src="./assets/product-search-mobile.webp" alt="Pesquisa imobiliária da Conectei em dispositivo móvel com dados demonstrativos" width="100%">
     </td>
   </tr>
   <tr>
@@ -108,10 +108,10 @@ Um resultado de pesquisa pode virar uma abordagem, uma oportunidade pode seguir 
 <table>
   <tr>
     <td width="66%">
-      <img src="./src/assets/product-valuation-report.webp" alt="Relatório de precificação da Conectei em desktop com dados demonstrativos" width="100%">
+      <img src="./assets/product-valuation-report.webp" alt="Relatório de precificação da Conectei em desktop com dados demonstrativos" width="100%">
     </td>
     <td width="34%">
-      <img src="./src/assets/product-valuation-report-mobile.webp" alt="Relatório de precificação da Conectei em dispositivo móvel com dados demonstrativos" width="100%">
+      <img src="./assets/product-valuation-report-mobile.webp" alt="Relatório de precificação da Conectei em dispositivo móvel com dados demonstrativos" width="100%">
     </td>
   </tr>
   <tr>
@@ -283,14 +283,37 @@ O projeto representa trabalho de ponta a ponta em produto, experiência, aplica�
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./public/brand/conectei-logo-dark.svg">
-    <img src="./public/brand/conectei-logo.svg" alt="Conectei" width="220">
-  </picture>
+  <sub><strong>POR TRÁS DA CONECTEI</strong></sub>
 </p>
 
+<h2 align="center">Não é só código.<br>É produto de ponta a ponta.</h2>
+
 <p align="center">
-  <a href="https://conecteimob.com.br">conecteimob.com.br</a>
+  Conheça a visão, o processo e a engenharia por trás da plataforma —<br>
+  da estratégia e experiência à entrega, aos dados, à IA e à operação.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://miguelzacca.dev" title="Conhecer o portfólio profissional de Miguel Zacca">
+    <img src="./assets/profile-cover.svg" alt="Miguel Zacca — Product Engineer. Produtos digitais construídos de ponta a ponta." width="100%">
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://miguelzacca.dev">EXPLORAR O PORTFÓLIO PROFISSIONAL ↗</a>
+</h3>
+
+<p align="center">
+  <strong>miguelzacca.dev</strong><br>
+  <sub>PRODUCT ENGINEER &nbsp;·&nbsp; CREATOR OF CONECTEI</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://conecteimob.com.br">Conectei</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/miguelzacca">github.com/miguelzacca</a>
 </p>
