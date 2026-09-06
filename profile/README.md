@@ -316,5 +316,5 @@ A superfície apresentada aqui representa trabalho de ponta a ponta em produto, 
 <p align="center">
   <a href="https://conecteimob.com.br">Conectei</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/conecteimob">github.com/conecteimob</a>
+  <a href="https://github.com/miguelzacca">github.com/miguelzacca</a>
 </p>
