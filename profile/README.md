@@ -32,7 +32,7 @@ Ela pode ser usada por um corretor autônomo ou compartilhada por uma imobiliár
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <strong>700k linhas efetivas</strong><br>
+      <strong>1M+ linhas de código efetivo</strong><br>
       <sub>Produto, plataforma, testes e entrega</sub>
     </td>
     <td align="center" width="33%">
@@ -46,7 +46,7 @@ Ela pode ser usada por um corretor autônomo ou compartilhada por uma imobiliár
   </tr>
 </table>
 
-<p align="center"><sub>Snapshot do produto em produção · setembro de 2026 · dependências e arquivos gerados não incluídos</sub></p>
+<p align="center"><sub>Escala do produto em produção · outubro de 2026 · dependências e arquivos gerados não incluídos</sub></p>
 
 > [!IMPORTANT]
 > Este README apresenta a superfície pública do produto. Fontes de dados, critérios proprietários, regras de negócio, mecanismos antifraude, contratos com fornecedores, credenciais, endpoints privados e detalhes operacionais sensíveis são intencionalmente omitidos.
